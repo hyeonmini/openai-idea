@@ -1,1 +1,1 @@
-# my-vite-tailwindcss-eslint-prettier-template
+# openai-idea
